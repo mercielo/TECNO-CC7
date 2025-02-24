@@ -17,8 +17,8 @@ $(call inherit-product, device/tecno/TECNO-CC7/device.mk)
 
 PRODUCT_DEVICE := TECNO-CC7
 PRODUCT_NAME := omni_TECNO-CC7
-PRODUCT_BRAND := TECNO
-PRODUCT_MODEL := TECNO CC7
+PRODUCT_BRAND := Tecno
+PRODUCT_MODEL := TECNO-CC7
 PRODUCT_MANUFACTURER := tecno
 
 PRODUCT_GMS_CLIENTID_BASE := android-transsion-tecno-rev1
